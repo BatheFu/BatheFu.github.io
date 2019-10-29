@@ -20,7 +20,7 @@ Click [here](http://bbs.dxy.cn)  to visit the forum's homepage.
 
 With the help of a friend for the data collecting by scraping the pages of the members discussion, we analyzed the interaction patterns since 2002(the website's initial year) using social network analysis. Here shows one image that smoothens the life span of the users.
 
-![sur](.\images\sur.png)
+{% include image.html url="/images/sur.png" description="Survival analysis: x-axis represents the active years of a member(the last speaking time mimus the first one), y-axis represents the probablity of suvival(Will they continue to be active give x years)" %}
 
 As we see in the picture, most members are active for less than one year, while some of them could keep active with the development of the forum. They are key members in the forum who knows the history of this community, not only serve as the information distributors, but also administrators, and gate keepers to lead more people engage in discussions. These leaders do not take the role of all above all the time, therefore, it's crucial to find out how these alternations of leaders happen as the time goes on, and how does it relates to the rigor of  the forum.
 
