@@ -22,7 +22,7 @@ With the help of a friend for the purpose of data collecting by scraping the pag
 
 Here shows the basic structure of the whole network from the randomly chosed 18000 data points. Each point has its function in the graph, which we call roles, mainly to convey information, to lead the conversation, to support others' opinion, etc. Also we colored and sized them due to their ranks and labels. (see details in the pdf) Actually rank has influencial impact on the size of the cluster, while which department you belong to doesn't means a lot. You could guess that the graph would conform to the power law from the graph, too.
 
-{% include image.html url="/images/struture.png" description="Left: Labeled with department, Right: Labeled with rank. The gate in the middle belongs to an account run by the forum itself, if moved , the graph would be rather mixed up." %}
+{% include image.html url="/images/structrue.png" description="Left: Labeled with department, Right: Labeled with rank. The gate in the middle belongs to an account run by the forum itself, if moved , the graph would be rather mixed up." %}
 
 ## Lifespan
 
