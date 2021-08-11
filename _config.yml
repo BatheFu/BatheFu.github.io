@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Odyssey of a Med Student
-email: fuyugang11@foxmail.com
+email: fuyugang11@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Yugang's Personal Website where literally lists his current working projects and bits of cozy life in the med school.
+  This is Yugang's personal website where presents his working projects and grapes of life in the med school.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: None
